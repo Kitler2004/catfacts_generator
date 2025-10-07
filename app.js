@@ -14,3 +14,4 @@ btn.addEventListener('click',async ()=>{
     let res2 = await getFacts();
     p.innerText = res2;
 })
+// addition line to learn guthub commands dont bother it
